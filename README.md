@@ -7,9 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itztanmayjain&label=Profile%20views&color=0e75b6&style=flat" alt="itztanmayjain" /> </p>
 
-- 👨‍💻 All of my projects are available at [itztanmayjain](https://superprofile.bio/itztanmayjain)
 
-- 📫 How to reach me **tanmayjain04@yahoo.in**
+- 📫 How to reach me **tanmayjain.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
